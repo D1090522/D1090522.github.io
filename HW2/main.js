@@ -14,3 +14,7 @@ var countdownInterval = setInterval(function() {
         location.reload();
     }
 }, 1000);
+
+function redirectToMomo() {
+    location.href = 'https://www.momoshop.com.tw/';
+}

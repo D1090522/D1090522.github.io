@@ -38,8 +38,20 @@
     left: 25%;
 }
 
+.button {
+    background-color: #0072c6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+/*
 button {
-    background-image: url("MOMO_Logo.png");
+    background-image: url("MOMO_Logo.webp");
     position: fixed;
     right: 20px;
     bottom: 20px;
@@ -50,7 +62,7 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
-
+*/
 .container {
     position: relative;
     width: 100%;
